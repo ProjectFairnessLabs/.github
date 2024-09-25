@@ -1,19 +1,15 @@
-# Hello, world! So glad to see you all.
+# Hello!
 
-Welcome to Project Fairness Labs. We're the creators of PF-vMenu, and we're quite the controversial mofos. We do a modified vMenu. But overall, we don't copy someone else's code and make some money off of it. ;)
+Welcome to Project Fairness Labs, the team responsible for PF-vMenu.
 
-# Look us up
-**Discord**: [Click Here](https://discord.gg/D7cVc8TzPN)
+# Our Socials
+**Discord**: **CURRENTLY DEACTIVATED**
 
-**Twatter**: [Click Here](https://twitter.com/PF_FiveM) - ribbitpoison was and only is here
+**Twitter**: [Click Here](https://twitter.com/PF_FiveM)
 
 # Our Resources
-**PF-vMenu**: [Click Here](https://github.com/ProjectFairnessLabs/PF-vMenu) and [**GroupTranslationsDB**](https://github.com/ProjectFairnessLabs/GroupTranslationDB) if you want them vMenu translations
+**PF-vMenu**: [Click Here](https://github.com/ProjectFairnessLabs/PF-vMenu) and [**GroupTranslationsDB**](https://github.com/ProjectFairnessLabs/GroupTranslationDB) if you want translations for PF-vMenu.
 
-**Our modified FH4Speedometer fork**: [Click Here](https://github.com/ProjectFairnessLabs/fh4speedometer)
+**FH4Speedometer Fork**: [Click Here](https://github.com/ProjectFairnessLabs/fh4speedometer)
 
-**The Ox Archives**: [Click Here](https://github.com/TheOxArchives)
-
-
-# P.S
-Scully is a b***h B)
+We re-did the entire ReadMe in tribute to the former owner who passed away. Rest in Peace.
