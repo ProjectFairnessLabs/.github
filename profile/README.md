@@ -2,10 +2,8 @@
 
 Welcome to Project Fairness Labs, the team responsible for PF-vMenu.
 
-# Our Socials
-**Discord**: **CURRENTLY DEACTIVATED**
-
-**Twitter**: [Click Here](https://twitter.com/PF_FiveM)
+# Technical Support
+**Discord**: **CURRENTLY DEACTIVATED UNTIL FURTHER NOTICE**
 
 # Our Resources
 **PF-vMenu**: [Click Here](https://github.com/ProjectFairnessLabs/PF-vMenu) and [**GroupTranslationsDB**](https://github.com/ProjectFairnessLabs/GroupTranslationDB) if you want translations for PF-vMenu.
