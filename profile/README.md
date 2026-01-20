@@ -1,6 +1,6 @@
 # Hello!
 
-Welcome to Project Fairness Labs, the team responsible for PF-vMenu.
+Welcome to Project Fairness Labs Owned by Vercetti Freeroam DEV TEAM, the team responsible for PF-vMenu.
 
 
 # Our Resources
